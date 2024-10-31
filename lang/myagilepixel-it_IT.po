@@ -1,0 +1,832 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MyAgilePixel\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-11 10:33+0000\n"
+"PO-Revision-Date: 2024-07-17 17:14+0000\n"
+"Last-Translator: \n"
+"Language-Team: Italiano\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.4.1\n"
+"X-Domain: my-agile-pixel"
+
+#: admin/views/inc/inc.user_property_list.php:15
+msgid "(e.g. is_blog , is_commercial_post, is_product, etc)."
+msgstr "(es: is_blog, is_commercial_post, is_product, ecc)."
+
+#: admin/views/settings_page_html.php:70
+msgid ""
+"<b>Warning</b>: You are using a PHP.wasm environment. Due to the limitations "
+"of this stack, which emulates a real web server, some functionalities may "
+"not work as expected."
+msgstr ""
+"<b>Attenzione</b>: Stai utilizzando un ambiente PHP.wasm. A causa delle "
+"limitazioni di questo stack, che emula un vero server web, alcune "
+"funzionalità potrebbero non funzionare come previsto."
+
+#: admin/views/inc/inc.facebook_tab.php:52
+#: admin/views/inc/inc.tiktok_tab.php:52
+msgid "Access Token"
+msgstr "Access Token"
+
+#: admin/views/inc/inc.advanced_settings_tab.php:242
+msgid "Add the events name you would like not to send."
+msgstr "Aggiungi i nomi degli eventi che desideri che non vengano inviati."
+
+#: admin/views/inc/inc.user_property_list.php:51
+msgid "Add the user property name you would like track."
+msgstr "Inserisci le proprietà utente che vuoi tracciare."
+
+#: admin/views/settings_page_html.php:138
+#: admin/views/inc/inc.advanced_settings_tab.php:4
+msgid "Advanced Settings"
+msgstr "Avanzate"
+
+#: admin/views/user_property_assoc.php:172
+msgid ""
+"Advanced tracking? User segments? You are in the right place to enhance web "
+"analysis and your marketing performance."
+msgstr ""
+"Tracciamenti avanzati ? Segmenti utente ? Sei nel posto giusto per "
+"potenziare la web analysis e le performance del tuo marketing."
+
+#: admin/views/inc/inc.ganalytics_tab.php:134
+#: admin/views/inc/inc.facebook_tab.php:139
+#: admin/views/inc/inc.tiktok_tab.php:137
+msgid "Always active"
+msgstr "Sempre attiva"
+
+#: admin/views/inc/inc.general_tab.php:126
+msgid "Change license code"
+msgstr "Cambia codice di licenza"
+
+#: admin/views/inc/inc.ganalytics_tab.php:111
+#: admin/views/inc/inc.facebook_tab.php:117
+#: admin/views/inc/inc.tiktok_tab.php:115
+#| msgid ""
+#| "Change the purification level by choosing from the available presets, or "
+#| "set the bar to zero and customize the parameters"
+msgid ""
+"Change the proxification level by choosing from the available presets, or "
+"set the bar to zero and customize the parameters"
+msgstr ""
+"Modifica il livello di proxificazione scegliendo tra i preset disponibili, "
+"oppure imposta la barra a zero e personalizza i parametri"
+
+#: admin/views/inc/inc.sidebar.php:49
+msgid "Choose this option if you do not have to request user consent"
+msgstr ""
+"Scegli questa opzione se non sei tenuto a richiedere il consenso dell'utente"
+
+#: admin/views/inc/inc.general_tab.php:83
+msgid "Click here to access your user area."
+msgstr "Clicca qui per accedere alla tua area utente."
+
+#: admin/views/inc/inc.general_tab.php:137
+msgid "Connect with Cookie / GDPR plugin"
+msgstr "Collega con plugin Cookie / GDPR"
+
+#: admin/views/inc/inc.sidebar.php:37
+#| msgid "Cookie plugin connection guide"
+msgid "Cookie plugin integration guide"
+msgstr "Guida all' integrazione con il plugin dei Cookie"
+
+#: admin/views/inc/inc.user_property_list.php:14
+msgid "Create your own custom user property"
+msgstr "Crea le tua proprietà utente personalizzate"
+
+#: admin/views/inc/inc.user_property_assoc.edit.php:81
+msgid "Customize the user property to send, for the desired post type item."
+msgstr ""
+"Personalizza la proprietà utente da inviare, per l'elemento desiderato."
+
+#: admin/views/inc/inc.ganalytics_tab.php:88
+#: admin/views/inc/inc.facebook_tab.php:93
+#: admin/views/inc/inc.tiktok_tab.php:91
+#| msgid "Customized purification level"
+msgid "Customized proxification level"
+msgstr "Livello di proxificazione personalizzato"
+
+#: admin/views/inc/inc.ganalytics_tab.php:81
+#: admin/views/inc/inc.facebook_tab.php:86
+#: admin/views/inc/inc.tiktok_tab.php:84
+#| msgid "Data purification level"
+msgid "Data proxification level"
+msgstr "Livello di proxificazione dei dati"
+
+#: admin/views/inc/inc.ganalytics_tab.php:17
+#: admin/views/inc/inc.ganalytics_tab.php:153
+#: admin/views/inc/inc.ganalytics_tab.php:178
+#: admin/views/inc/inc.ganalytics_tab.php:206
+#: admin/views/inc/inc.ganalytics_tab.php:234
+#: admin/views/inc/inc.ganalytics_tab.php:262
+#: admin/views/inc/inc.ganalytics_tab.php:290
+#: admin/views/inc/inc.ganalytics_tab.php:319
+#: admin/views/inc/inc.facebook_tab.php:17
+#: admin/views/inc/inc.facebook_tab.php:159
+#: admin/views/inc/inc.facebook_tab.php:184
+#: admin/views/inc/inc.facebook_tab.php:212
+#: admin/views/inc/inc.facebook_tab.php:240
+#: admin/views/inc/inc.facebook_tab.php:268
+#: admin/views/inc/inc.advanced_settings_tab.php:76
+#: admin/views/inc/inc.advanced_settings_tab.php:124
+#: admin/views/inc/inc.user_property_assoc.edit.php:37
+#: admin/views/inc/inc.general_tab.php:16 admin/views/inc/inc.tiktok_tab.php:17
+#: admin/views/inc/inc.tiktok_tab.php:157
+#: admin/views/inc/inc.tiktok_tab.php:182
+#: admin/views/inc/inc.tiktok_tab.php:210
+#: admin/views/inc/inc.tiktok_tab.php:238
+#: admin/views/inc/inc.tiktok_tab.php:265
+msgid "Disable"
+msgstr "Disattivo"
+
+#: admin/views/inc/inc.advanced_settings_tab.php:43
+msgid "Disable debug"
+msgstr "Disabilita debug"
+
+#: admin/views/inc/inc.ganalytics_tab.php:63
+msgid "Do not send"
+msgstr "Non inviare"
+
+#: admin/views/inc/inc.ganalytics_tab.php:19
+#: admin/views/inc/inc.ganalytics_tab.php:155
+#: admin/views/inc/inc.ganalytics_tab.php:180
+#: admin/views/inc/inc.ganalytics_tab.php:208
+#: admin/views/inc/inc.ganalytics_tab.php:236
+#: admin/views/inc/inc.ganalytics_tab.php:264
+#: admin/views/inc/inc.ganalytics_tab.php:292
+#: admin/views/inc/inc.ganalytics_tab.php:321
+#: admin/views/inc/inc.facebook_tab.php:19
+#: admin/views/inc/inc.facebook_tab.php:161
+#: admin/views/inc/inc.facebook_tab.php:186
+#: admin/views/inc/inc.facebook_tab.php:214
+#: admin/views/inc/inc.facebook_tab.php:242
+#: admin/views/inc/inc.facebook_tab.php:270
+#: admin/views/inc/inc.advanced_settings_tab.php:78
+#: admin/views/inc/inc.advanced_settings_tab.php:126
+#: admin/views/inc/inc.general_tab.php:17 admin/views/inc/inc.tiktok_tab.php:19
+#: admin/views/inc/inc.tiktok_tab.php:159
+#: admin/views/inc/inc.tiktok_tab.php:184
+#: admin/views/inc/inc.tiktok_tab.php:212
+#: admin/views/inc/inc.tiktok_tab.php:240
+#: admin/views/inc/inc.tiktok_tab.php:267
+msgid "Enable"
+msgstr "Attivo"
+
+#: admin/views/inc/inc.advanced_settings_tab.php:254
+msgid "Enable compatible mode"
+msgstr "Abilita modalità compatibile"
+
+#: admin/views/inc/inc.ganalytics_tab.php:383
+#| msgid "Enable Consent Mode <span class=\"mapx_highlight\">(Beta)</span>"
+msgid "Enable Consent Mode <small class=\"mapx_highlight\">(Beta)</small>"
+msgstr "Abilita Consent Mode <small class=\"mapx_highlight\">(Beta)</small>"
+
+#: admin/views/inc/inc.advanced_settings_tab.php:44
+msgid "Enable debug"
+msgstr "Abilita debug"
+
+#: admin/views/inc/inc.advanced_settings_tab.php:36
+msgid "Enable debug bar for administrators"
+msgstr "Abilita il debug per gli amministratori"
+
+#: admin/views/inc/inc.facebook_tab.php:9
+#: admin/views/inc/inc.facebook_tab.php:25
+msgid "Enable Facebook tracking proxification"
+msgstr "Abilita la proxificazione dei tracciamenti Facebook"
+
+#: admin/views/inc/inc.ganalytics_tab.php:339
+msgid "Enable Google Analytics Advanced Features"
+msgstr "Abilita le funzionalità avanzate di Google Analytics"
+
+#: admin/views/inc/inc.ganalytics_tab.php:9
+#: admin/views/inc/inc.ganalytics_tab.php:25
+msgid "Enable Google Analytics tracking proxification"
+msgstr "Abilita la proxificazione dei tracciamenti Google Analytics"
+
+#: admin/views/inc/inc.advanced_settings_tab.php:9
+msgid "Enable plugin auto update"
+msgstr "Abilita l'aggiornamento automatico"
+
+#: admin/views/inc/inc.advanced_settings_tab.php:269
+msgid ""
+"Enable this option if event tracking is not detected or if our support team "
+"has advised you to do so."
+msgstr ""
+"Abilita questa opzione se non rilevi il tracciamento degli eventi o se ti è "
+"stato consigliato dalla nostra assistenza."
+
+#: admin/views/inc/inc.advanced_settings_tab.php:50
+msgid ""
+"Enable this options, then visit your website in order to check the data "
+"being passed via proxification"
+msgstr ""
+"Abilita questa opzione, poi visita il sito web per testare l'invio dei dati "
+"tramite proxificazione"
+
+#: admin/views/inc/inc.tiktok_tab.php:9 admin/views/inc/inc.tiktok_tab.php:25
+msgid "Enable TikTok tracking proxification"
+msgstr "Abilita la proxificazione dei tracciamenti TikTok"
+
+#: admin/views/inc/inc.ganalytics_tab.php:326
+#: admin/views/inc/inc.facebook_tab.php:275
+#: admin/views/inc/inc.tiktok_tab.php:272
+msgid "Enable to minimize the duration of cookies for user recognition"
+msgstr ""
+"Abilita per abbassare al massimo la durata dei cookie per il riconoscimento "
+"dell'utente"
+
+#: admin/views/inc/inc.ganalytics_tab.php:299
+msgid "Enable to remove external referral information"
+msgstr "Abilita per rimuovere le informazioni sui referral esterni"
+
+#: admin/views/inc/inc.ganalytics_tab.php:161
+#: admin/views/inc/inc.facebook_tab.php:167
+#: admin/views/inc/inc.tiktok_tab.php:165
+msgid "Enable to remove the user's User Agent information"
+msgstr "Abilita per rimuovere le informazioni sullo User Agent dell'utente"
+
+#: admin/views/inc/inc.ganalytics_tab.php:242
+#: admin/views/inc/inc.facebook_tab.php:220
+#: admin/views/inc/inc.tiktok_tab.php:218
+msgid "Enable to remove user click tracking information"
+msgstr ""
+"Abilita per rimuovere le informazioni di tracciamento del click dell'utente"
+
+#: admin/views/inc/inc.ganalytics_tab.php:214
+msgid "Enable to remove user screen information"
+msgstr "Abilita per rimuovere le informazioni sullo schermo dell'utente"
+
+#: admin/views/inc/inc.ganalytics_tab.php:269
+#: admin/views/inc/inc.facebook_tab.php:247
+#: admin/views/inc/inc.tiktok_tab.php:245
+msgid "Enable to remove UTM tags from the URL"
+msgstr "Abilita per rimuovere dalla URL i tag UTM"
+
+#: admin/views/inc/inc.user_property_assoc.edit.php:29
+msgid "Enable User Property Page View Tracking"
+msgstr ""
+"Abilita il tracciamento delle proprietà utente sulle visualizzazioni "
+"dell'elemento"
+
+#: admin/views/inc/inc.advanced_settings_tab.php:108
+msgid "Enable WooCommerce events"
+msgstr "Abilita Eventi WooCommerce"
+
+#: admin/views/inc/inc.advanced_settings_tab.php:132
+msgid "Enable WooCommerce events integration"
+msgstr "Abilita l'integrazione con WooCommerce"
+
+#: admin/views/inc/inc.facebook_tab.php:75
+msgid "Enter here the code to send test events to Facebook"
+msgstr "Inserisci qui il codice per inviare a Facebook eventi di test"
+
+#: admin/views/inc/inc.tiktok_tab.php:75
+msgid "Enter here the code to send test events to TikTok"
+msgstr "Inserisci qui il codice per inviare a TikTok eventi di test"
+
+#: admin/views/inc/inc.facebook_tab.php:59
+#: admin/views/inc/inc.tiktok_tab.php:59
+msgid "Enter the Access Token here"
+msgstr "Inserisci qui l'Access Token"
+
+#: admin/views/inc/inc.ganalytics_tab.php:46
+msgid "Enter the Analytics property ID here <small>(e.g. G-XX0X00XX00)</small>"
+msgstr ""
+"Inserisci qui l'ID della proprietà Analytics <small>(es.G-XX0X00XX00)</small>"
+
+#: admin/views/inc/inc.facebook_tab.php:43
+msgid ""
+"Enter the Facebook pixel ID here <small>(consisting of 16 digits)</small>"
+msgstr ""
+"Inserisci qui l'ID del pixel Facebook <small>(composto da 16 cifre)</small>"
+
+#: admin/views/inc/inc.tiktok_tab.php:43
+msgid "Enter the TikTok pixel ID here <small>(consisting of 16 digits)</small>"
+msgstr ""
+"Inserisci qui l'ID del pixel TikTok <small>(composto da 16 cifre)</small>"
+
+#: admin/views/user_property_assoc.php:178
+msgid ""
+"Enter the user properties you want to track from the \"User Properties "
+"Tracking\" tab, then associate them with the types of posts on your website, "
+"selecting a \"catch-all\" property or choosing the preferred property, page "
+"by page, article by article."
+msgstr ""
+"Inserisci le proprietà utente che vuoi tracciare dal tab \"Tracciamento "
+"proprietà utente\", poi associale ai tipi di post del tuo sito web, "
+"selezionando una proprietà \"catch all\", oppure selezionando la proprietà "
+"che preferisci, pagina per pagina, articolo per articolo."
+
+#: admin/views/inc/inc.general_tab.php:70
+msgid "Enter your license key here"
+msgstr "Inserisci qui la tua chiave di licenza"
+
+#: admin/views/settings_page_html.php:4 admin/views/user_property_assoc.php:4
+msgid "Error: unable to save"
+msgstr "Errore: impossibile salvare"
+
+#: admin/views/inc/inc.advanced_settings_tab.php:205
+msgid "Events blacklist"
+msgstr "Blacklist degli eventi"
+
+#: admin/views/settings_page_html.php:118
+#: admin/views/inc/inc.facebook_tab.php:4
+msgid "Facebook"
+msgstr "Facebook"
+
+#: admin/views/inc/inc.general_tab.php:112
+msgid "For further information you can check:"
+msgstr "Per maggiori informazioni :"
+
+#: admin/views/user_property_assoc.php:183
+#: admin/views/inc/inc.user_property_list.php:64
+msgid "For further information, please refer to the tutorial available here."
+msgstr "Per ulteriori informazioni ti rimandiamo al tutorial disponibile qui."
+
+#: admin/views/inc/inc.sidebar.php:69
+msgid ""
+"For those who carry out marketing campaigns and want to track their "
+"performance"
+msgstr ""
+"Indicato per chi fa campagne marketing e vuole tracciarne le performance"
+
+#: admin/views/inc/inc.sidebar.php:74
+msgid "For those who only want to send data via anonymous IP"
+msgstr "Indicato per chi vuole solamente inviare i dati tramite IP anonimo"
+
+#: admin/views/inc/inc.sidebar.php:64
+#| msgid ""
+#| "For those who want to remove user data, their behavior over time and "
+#| "references to marketing campaigns. By choosing this level of purification,"
+#| " it may be more difficult to track marketing campaign performance"
+msgid ""
+"For those who want to remove user data, their behavior over time and "
+"references to marketing campaigns. By choosing this level of proxification, "
+"it may be more difficult to track marketing campaign performance"
+msgstr ""
+"Indicato per chi vuole rimuovere i dati dell'utente, il suo comportamento "
+"nel tempo e i riferimenti alle campagne marketing. scegliendo questo livello "
+"di proxificazione, potrebbe essere più difficile tracciare le performance "
+"campagne marketing"
+
+#: admin/views/settings_page_html.php:96 admin/views/inc/inc.general_tab.php:4
+msgid "General settings"
+msgstr "Opzioni generali"
+
+#: admin/views/settings_page_html.php:105
+#: admin/views/inc/inc.ganalytics_tab.php:4
+#, fuzzy
+#| msgid "Google Analytics"
+msgid "Google Analytics 4"
+msgstr "Google Analytics"
+
+#: admin/views/inc/inc.sidebar.php:63
+msgid "High level"
+msgstr "Livello alto"
+
+#: admin/views/inc/inc.ganalytics_tab.php:106
+#: admin/views/inc/inc.facebook_tab.php:111
+#: admin/views/inc/inc.tiktok_tab.php:109
+#| msgid "High purification level"
+msgid "High proxification level"
+msgstr "Livello di proxificazione alto"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.myagilepixel.com/"
+msgstr "https://www.myagilepixel.com/"
+
+#: admin/views/inc/inc.ganalytics_tab.php:367
+msgid ""
+"I understand and accept that by enabling this option, this website may not "
+"fully comply with GDPR . Enable Google Analytics Advanced Features"
+msgstr ""
+"\n"
+"Capisco e accetto che abilitando questa opzione, questo sito potrebbe non "
+"essere pienamente conforme al GDPR. Abilita le Funzioni Avanzate di Google "
+"Analytics."
+
+#: admin/views/inc/inc.ganalytics_tab.php:420
+msgid ""
+"I understand and accept that by enabling this option, this website may not "
+"fully comply with GDPR and specifically with respect to fully complying with "
+"the rules regarding the transfer of data to the United States."
+msgstr ""
+"Comprendo ed accetto che abilitando questa opzione questo sito web potrebbe "
+"non rispettare pienamente la compliance al GDPR e nello specifico riguardo "
+"al rispettare pienamente le norme inerenti il trasferimento di dati verso "
+"gli Stati Uniti."
+
+#: admin/views/inc/inc.ganalytics_tab.php:439
+msgid ""
+"I wish to enable Consent Mode and send tracking data in an anonymous form, "
+"even in the absence of explicit consent from the user."
+msgstr ""
+"Desidero abilitare la Consent Mode ed inviare i dati di tracciamento, in "
+"forma anonima, anche in assenza di consenso esplicito da parte dell'utente."
+
+#: admin/views/inc/inc.general_tab.php:156
+msgid ""
+"If you are using a cookie management plugin, select it from this list to "
+"connect it with My Agile Pixel"
+msgstr ""
+"Se utilizzi un plugin di gestione cookie, selezionalo da questa lista per "
+"interfacciarlo con My Agile Pixel"
+
+#: admin/views/user_property_assoc.php:181
+#: admin/views/inc/inc.user_property_list.php:62
+msgid ""
+"Important: remember to also configure the list of properties you created in "
+"the Google Analytics 4 configuration, under the \"Custom Definitions\" "
+"section."
+msgstr ""
+"Importante: ricordati di configurare l'elenco delle proprietà che hai creato "
+"anche nella configurazione di Google Analytics 4, alla voce allineare "
+"\"Definizioni personalizzate\"."
+
+#: admin/views/inc/inc.ganalytics_tab.php:186
+#: admin/views/inc/inc.facebook_tab.php:192
+#: admin/views/inc/inc.tiktok_tab.php:190
+msgid ""
+"In order to distinguish mobile/desktop users, send appropriate and anonymous "
+"user agent data"
+msgstr ""
+"Al fine di distiguere utenti mobile/desktop, invia appropriati e anonimi "
+"dati sull'user agent"
+
+#: admin/views/inc/inc.sidebar.php:43 admin/views/inc/inc.sidebar.php:55
+msgid "Integration guide"
+msgstr "Guida all'integrazione"
+
+#: admin/views/inc/inc.advanced_settings_tab.php:84
+msgid ""
+"Keep this option active to block any non-compliant versions of Facebook, "
+"Google Analytics or Tik Tok scripts that may be present on the site."
+msgstr ""
+"Mantieni attiva questa opzione per bloccare eventuali versioni non compliant "
+"di script Facebook, Google Analytics o Tik Tok eventualmente presenti sul "
+"sito."
+
+#: admin/views/inc/inc.general_tab.php:58
+msgid "License key"
+msgstr "Chiave di licenza"
+
+#: admin/views/inc/inc.general_tab.php:34
+msgid "License status"
+msgstr "Stato della licenza"
+
+#: admin/views/inc/inc.sidebar.php:73
+msgid "Low level"
+msgstr "Livello basso"
+
+#: admin/views/inc/inc.ganalytics_tab.php:93
+#: admin/views/inc/inc.facebook_tab.php:98
+#: admin/views/inc/inc.tiktok_tab.php:96
+#| msgid "Low purification level"
+msgid "Low proxification level"
+msgstr "Livello di proxificazione basso"
+
+#: admin/views/inc/inc.ganalytics_tab.php:35
+msgid "Measurement ID"
+msgstr "ID di misurazione"
+
+#: admin/views/inc/inc.sidebar.php:68
+msgid "Medium level"
+msgstr "Livello medio"
+
+#: admin/views/inc/inc.ganalytics_tab.php:99
+#: admin/views/inc/inc.facebook_tab.php:104
+#: admin/views/inc/inc.tiktok_tab.php:102
+#| msgid "Medium purification level"
+msgid "Medium proxification level"
+msgstr "Livello di proxificazione medio"
+
+#: admin/views/inc/inc.sidebar.php:53
+msgid ""
+"My Agile Privacy / Cookiebot / Iubenda / GDPR Cookie Consent - CookieYes / "
+"Complianz"
+msgstr ""
+"My Agile Privacy / Cookiebot / Iubenda / GDPR Cookie Consent - CookieYes / "
+"Complianz"
+
+#. Name of the plugin
+#. Author of the plugin
+msgid "MyAgilePixel"
+msgstr "MyAgilePixel"
+
+#: admin/views/inc/inc.general_tab.php:144 admin/views/inc/inc.sidebar.php:39
+msgid "No plugin - manually integration via javascript code"
+msgstr "Nessun plugin - integrazione via codice javascript"
+
+#: admin/views/user_property_assoc.php:107
+msgid "No post type available"
+msgstr "Nessuna tipologia di post disponibile"
+
+#: admin/views/user_property_assoc.php:135
+msgid "No taxonomy available"
+msgstr "Nessuna tassonomia di post disponibile"
+
+#: admin/views/inc/inc.advanced_settings_tab.php:60
+msgid "Non-compliant script blocking"
+msgstr "Blocco script non compliant"
+
+#: admin/views/inc/inc.general_tab.php:150 admin/views/inc/inc.sidebar.php:48
+msgid "None - send data without consent"
+msgstr "Nessuno - invia dati senza consenso"
+
+#: admin/views/inc/inc.ganalytics_tab.php:133
+#: admin/views/inc/inc.facebook_tab.php:138
+#: admin/views/inc/inc.tiktok_tab.php:136
+msgid "Off"
+msgstr "Spento"
+
+#: admin/views/inc/inc.user_property_assoc.edit.php:41
+msgid "On - custom "
+msgstr "Attivo - personalizzato"
+
+#: admin/views/inc/inc.user_property_assoc.edit.php:39
+msgid "On - with \"catch all\" user property "
+msgstr "Attivo - con proprietà utente \"catch all\""
+
+#: admin/views/inc/inc.user_property_assoc.edit.php:23
+msgid "Page View Tracking"
+msgstr "Tracciamento visualizzazioni"
+
+#: admin/views/inc/inc.facebook_tab.php:36
+#: admin/views/inc/inc.tiktok_tab.php:36
+msgid "Pixel ID"
+msgstr "ID Pixel"
+
+#: admin/views/inc/inc.general_tab.php:9
+msgid "Plugin status"
+msgstr "Stato plugin"
+
+#: admin/views/user_property_assoc.php:88
+msgid "Post type List"
+msgstr "Elenco tipologia post"
+
+#: admin/views/settings_page_html.php:109
+#: admin/views/settings_page_html.php:122
+msgid "Premium Feature"
+msgstr ""
+
+#: admin/views/inc/inc.advanced_settings_tab.php:156
+msgid "Prevent data tracking for those IPs"
+msgstr "Blocca l'invio di dati dai seguenti IP"
+
+#. Description of the plugin
+#| msgid ""
+#| "Prevent legal compliance issues when using Google Analytics,Facebook "
+#| "Pixel and TikTok Pixel."
+msgid ""
+"Prevent legal compliance issues when using Google Analytics, Facebook Pixel "
+"and TikTok Pixel."
+msgstr ""
+"Previeni i problemi di compliance quando utilizzi Google Analytics, Facebook "
+"Remarketing e il pixel di Tik Tok."
+
+#: admin/views/inc/inc.sidebar.php:61
+#| msgid "Purification levels guide"
+msgid "Proxification levels guide"
+msgstr "Guida ai livelli di proxificazione"
+
+#: admin/views/inc/inc.sidebar.php:42 admin/views/inc/inc.sidebar.php:54
+#| msgid "Refer to this guide to complete the connection:"
+msgid "Refer to this guide to complete the integration:"
+msgstr "Controlla questa guida per completare l'integrazione:"
+
+#: admin/views/inc/inc.ganalytics_tab.php:224
+#: admin/views/inc/inc.facebook_tab.php:202
+#: admin/views/inc/inc.tiktok_tab.php:200
+msgid "Remove \"ClickID\" Tracking Information"
+msgstr "Rimuovi informazioni traccianti \"ClickID\""
+
+#: admin/views/inc/inc.ganalytics_tab.php:280
+msgid "Remove external referrals"
+msgstr "Rimuovi referral esterni"
+
+#: admin/views/inc/inc.ganalytics_tab.php:196
+msgid "Remove screen info"
+msgstr "Rimuovi informazioni schermo"
+
+#: admin/views/inc/inc.ganalytics_tab.php:142
+#: admin/views/inc/inc.facebook_tab.php:148
+#: admin/views/inc/inc.tiktok_tab.php:146
+msgid "Remove user agent information"
+msgstr "Rimuovi informazioni user agent"
+
+#: admin/views/inc/inc.ganalytics_tab.php:252
+#: admin/views/inc/inc.facebook_tab.php:230
+#: admin/views/inc/inc.tiktok_tab.php:228
+msgid "Remove UTM tag"
+msgstr "Rimuovi tag UTM"
+
+#: admin/views/inc/inc.general_tab.php:102
+msgid "Reseller info"
+msgstr "Informazioni Rivenditore"
+
+#: admin/views/inc/inc.general_tab.php:121
+msgid "Reseller Mail:"
+msgstr "Mail Rivenditore:"
+
+#: admin/views/inc/inc.general_tab.php:117
+msgid "Reseller Website:"
+msgstr "Sito Rivenditore:"
+
+#: admin/views/settings_page_html.php:149
+#: admin/views/settings_page_html.php:183
+#: admin/views/user_property_assoc.php:150
+#: admin/views/user_property_assoc.php:229
+msgid "Save settings"
+msgstr "Salva impostazioni"
+
+#: admin/views/settings_page_html.php:151
+#: admin/views/settings_page_html.php:185
+#: admin/views/user_property_assoc.php:152
+#: admin/views/user_property_assoc.php:231
+msgid "Saving in progress"
+msgstr "Salvataggio in corso"
+
+#: admin/views/inc/inc.ganalytics_tab.php:71
+msgid "Select if you want to activate the debugging mode of the sent data"
+msgstr "Indica se vuoi attivare la modalità di debugging dei dati inviati"
+
+#: admin/views/inc/inc.user_property_assoc.edit.php:53
+msgid "Select the user property to send on every page view for this post type."
+msgstr ""
+"Seleziona la proprietà utente da inviare a ogni visualizzazione di pagina."
+
+#: admin/views/inc/inc.ganalytics_tab.php:65
+msgid "Send"
+msgstr "Invia"
+
+#: admin/views/inc/inc.ganalytics_tab.php:55
+msgid "Send debug information to Google Analytics"
+msgstr "Invia a Google Analytics informazioni per il debug"
+
+#: admin/views/inc/inc.general_tab.php:23
+msgid "Set the plugin status to active to enable its features"
+msgstr "Imposta lo stato del plugin su attivo, per abilitare le funzionalità"
+
+#: admin/my-agile-pixel-admin.php:105
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: admin/views/settings_page_html.php:2 admin/views/user_property_assoc.php:2
+msgid "Settings saved successfully"
+msgstr "Impostazioni salvate con successo"
+
+#: admin/views/settings_page_html.php:3 admin/views/user_property_assoc.php:3
+msgid ""
+"Settings saved successfully, but some mandatory data is missing. Please "
+"check the required fields"
+msgstr ""
+"Impostazioni salvate correttamente, ma alcuni dati obbligatori risultano "
+"mancanti. Controlla i campi richiesti."
+
+#: admin/views/settings_page_html.php:71
+msgid ""
+"Specifically, proxying functionalities and data sending to platforms are "
+"disabled."
+msgstr ""
+"Nello specifico, le funzionalità di proxificazione e invio dati alle "
+"piattaforme sono disattive."
+
+#: admin/my-agile-pixel-admin.php:106
+msgid "Support"
+msgstr "Supporto"
+
+#: admin/views/user_property_assoc.php:116
+msgid "Taxonomy List"
+msgstr "Elenco tassonomie"
+
+#: admin/views/inc/inc.facebook_tab.php:68
+#: admin/views/inc/inc.tiktok_tab.php:68
+msgid "Test event code"
+msgstr "Codice per eventi di test"
+
+#: admin/views/inc/inc.general_tab.php:46
+msgid "The status of your license"
+msgstr "Lo stato della tua licenza"
+
+#: admin/views/inc/inc.ganalytics_tab.php:350
+msgid ""
+"This feature allows you to enable support for Consent Mode v2 and Google Ads "
+"Conversion tracking."
+msgstr ""
+"Questa funzionalità ti consente di abilitare il supporto per il Consent Mode "
+"v2 e il tracciamento delle conversioni di Google Ads."
+
+#: admin/views/inc/inc.ganalytics_tab.php:395
+msgid ""
+"This feature allows you to enable support for Consent Mode, which helps you "
+"track, in a completely anonymous and untraceable manner, the access and "
+"events of users who have not provided explicit consent for anonymous use of "
+"GA4 ."
+msgstr ""
+"Questa funzione ti permette di abilitare il supporto alla Consent Mode, che "
+"ti aiuta a tracciare, in modo assolutamente anonimo e non riconducibile, gli "
+"accessi e gli eventi degli utenti che non hanno fornito il loro esplicito "
+"consenso all’utilizzo di GA4 in forma anonima."
+
+#: admin/views/inc/inc.ganalytics_tab.php:452
+msgid ""
+"This function is only available if you have also installed the My Agile "
+"Privacy plugin and activated a Premium license key."
+msgstr ""
+"Questa funzione è disponibile solo se hai anche installato il plugin My "
+"Agile Privacy e attivato una chiave di licenza Premium."
+
+#: admin/views/settings_page_html.php:131 admin/views/inc/inc.tiktok_tab.php:4
+msgid "TikTok"
+msgstr "TikTok"
+
+#: admin/views/inc/inc.ganalytics_tab.php:170
+#: admin/views/inc/inc.facebook_tab.php:176
+#: admin/views/inc/inc.tiktok_tab.php:174
+msgid "Track anonymously information about mobile/desktop users"
+msgstr "Traccia in modo anonimo informazioni sul device mobile/desktop"
+
+#: admin/views/user_property_assoc.php:67
+#: admin/views/user_property_assoc.php:167
+msgid "Usage Instructions"
+msgstr "Istruzioni di utilizzo"
+
+#: admin/views/inc/inc.ganalytics_tab.php:121
+#: admin/views/inc/inc.facebook_tab.php:127
+#: admin/views/inc/inc.tiktok_tab.php:125
+msgid "Use anonymous IP"
+msgstr "Usa IP anonimo"
+
+#: admin/views/inc/inc.ganalytics_tab.php:309
+#: admin/views/inc/inc.facebook_tab.php:258
+#: admin/views/inc/inc.tiktok_tab.php:255
+msgid "Use session cookies for user data storage"
+msgstr ""
+"Utilizza cookie di sessione a breve durata per la memorizzazione dell'utente"
+
+#: admin/views/inc/inc.user_property_list.php:8
+msgid "User property definition"
+msgstr "Definizione proprietà utente"
+
+#: admin/views/user_property_assoc.php:77
+msgid "User property list"
+msgstr "Elenco proprietà utente"
+
+#. page_title
+#: admin/my-agile-pixel-admin.php:207 admin/my-agile-pixel-admin.php:208
+msgid "User Property Tracking"
+msgstr "Tracciamento proprietà utente"
+
+#: admin/views/user_property_assoc.php:175
+msgid ""
+"Using this panel, you have the ability to track custom properties for the "
+"user, segment your visitors, and create more effective marketing campaigns. "
+"Currently, this feature is exclusively supported by Google Analytics 4."
+msgstr ""
+"Utilizzando questo pannello hai la possibilità di tracciare le proprietà "
+"personalizzate per l'utente, segmentare i tuoi visitatori e creare campagne "
+"marketing più efficaci. Al momento questa funzionalità è supportata "
+"esclusivamente da Google Analytics 4."
+
+#: admin/views/inc/inc.advanced_settings_tab.php:144
+msgid "WooCommerce is not active on this website."
+msgstr "WooCommerce non è attivo su questo sito."
+
+#: admin/views/inc/inc.general_tab.php:80
+msgid ""
+"Would you like to verify the status of your subscription, download invoices, "
+"or carry out other administrative tasks?"
+msgstr ""
+"Vuoi verificare lo stato del tuo abbonamento, scaricare le fatture o "
+"effettuare altre operazioni amministrative ?"
+
+#: admin/views/inc/inc.advanced_settings_tab.php:24
+msgid "Yes, I would like to turn on automatic plugin updates."
+msgstr "Si, voglio abilitare l'aggiornamento automatico del plugin."
+
+#: admin/views/inc/inc.advanced_settings_tab.php:96
+msgid "You are already protected by My Agile Privacy"
+msgstr "Sei già protetto da My Agile Privacy"
+
+#: admin/views/inc/inc.sidebar.php:40
+msgid ""
+"You have to execute manually the javascript code in order to trigger the "
+"data tracking"
+msgstr ""
+"Dovrai lanciare manualmente il codice javascript per l'avvio del tracciamento"
+
+#: admin/views/inc/inc.advanced_settings_tab.php:192
+#| msgid "Your ip address seems to be:"
+msgid "Your IP address seems to be:"
+msgstr "Il tuo indirizzo IP sembra essere:"
+
+#: admin/views/inc/inc.general_tab.php:108
+msgid "Your license key is provided by"
+msgstr "La tua chiave di licenza è fornita da:"
